@@ -15,7 +15,7 @@ baseurl:          '/521_lab2_newthemeblog'
                   # sidebar_blog_link below.
 
 author:
-  name:           Jonathan Chan
+  name:           Jonathan Chan :)
   url:            https://twitter.com/athirdtime
 
 paginate:         5
